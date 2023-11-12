@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.3)  11 NOV 2023 12:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.3)  12 NOV 2023 03:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -457,18 +457,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Package amsfonts Warning: Obsolete command \Bbb; \mathbb should be used instead
  on input line 47.
 
-[1
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+5.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+ [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./candles.aux)
-
-Package rerunfilecheck Warning: File `candles.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `candles.out':
-(rerunfilecheck)             Before: E8088441584B0847319A94497CA6F223;615
-(rerunfilecheck)             After:  1011DB8B90E584A301B63BCD9358B07A;708.
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./
+candles.aux)
+Package rerunfilecheck Info: File `candles.out' has not changed.
+(rerunfilecheck)             Checksum: 1A8769ACECF9E10BE2F0E4E5E38F5104;1377.
  )
 (\end occurred inside a group at level 2)
 
@@ -476,13 +477,13 @@ Package rerunfilecheck Info: Checksums for `candles.out':
 ### simple group (level 1) entered at line 39 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11006 strings out of 476025
- 171915 string characters out of 5790018
- 1871388 words of memory out of 5000000
- 31306 multiletter control sequences out of 15000+600000
+ 11037 strings out of 476025
+ 172383 string characters out of 5790018
+ 1870388 words of memory out of 5000000
+ 31329 multiletter control sequences out of 15000+600000
  515846 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,1047b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,661b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
@@ -490,13 +491,14 @@ m/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msb
-m10.pfb>
-Output written on candles.pdf (2 pages, 105808 bytes).
+.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb>
+Output written on candles.pdf (2 pages, 120263 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
